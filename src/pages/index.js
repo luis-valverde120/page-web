@@ -42,13 +42,7 @@ export default function Home() {
         className={`${styles.page} ${geistSans.variable} ${geistMono.variable}`}
       >
          <div>
-      <h1>Ubicación del Usuario</h1>
-      <p>País: {location.country}</p>
-      <p>Ciudad: {location.city}</p>
-      <p>Región: {location.region}</p>
-      <p>Código Postal: {location.postal_code}</p>
-      <p>Latitud y Longitud: {location.location}</p>
-      <p>Zona Horaria: {location.timezone}</p>
+      hola mundo
     </div>
       </div>
     </>
